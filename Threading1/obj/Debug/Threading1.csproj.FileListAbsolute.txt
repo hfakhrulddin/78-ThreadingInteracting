@@ -1,0 +1,6 @@
+C:\Div\Origin\78-ThreadingInteracting\Threading1\bin\Debug\Threading1.exe.config
+C:\Div\Origin\78-ThreadingInteracting\Threading1\bin\Debug\Threading1.exe
+C:\Div\Origin\78-ThreadingInteracting\Threading1\bin\Debug\Threading1.pdb
+C:\Div\Origin\78-ThreadingInteracting\Threading1\obj\Debug\Threading1.csprojResolveAssemblyReference.cache
+C:\Div\Origin\78-ThreadingInteracting\Threading1\obj\Debug\Threading1.exe
+C:\Div\Origin\78-ThreadingInteracting\Threading1\obj\Debug\Threading1.pdb
